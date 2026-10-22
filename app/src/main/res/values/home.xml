@@ -1,0 +1,21 @@
+<resources>
+    <string name="home_tencent">Tencent TV</string>
+    <string name="home_iqiyi">iQIYI</string>
+    <string name="home_youku">Youku</string>
+    <string name="home_mango">Mango TV</string>
+    <string name="home_bilibili">Bilibili</string>
+    <string name="home_netflix">Netflix</string>
+    <string name="home_youtube">YouTube</string>
+    <string name="home_morning">Good morning</string>
+    <string name="home_afternoon">Good afternoon</string>
+    <string name="home_evening">Good evening</string>
+    <string name="home_inputs">Inputs</string>
+    <string name="home_network">Network</string>
+    <string name="home_settings">Settings</string>
+    <string name="home_cast">Cast</string>
+    <string name="home_disk">USB / Disk</string>
+    <string name="home_all">All apps</string>
+    <string name="home_back_hint">Press Back to return home</string>
+    <string name="home_pending">Not installed</string>
+    <string name="home_unavailable">This app is not installed or has no available entry</string>
+</resources>
